@@ -3,3 +3,7 @@ body {
   margin: 0;
   background-color: deepskyblue;
 }
+
+img {
+  width: 150px;
+}
