@@ -1,3 +1,5 @@
+import "../css/componentes.css";
+
 // Agrega un titulo nombre a id="app"
 export const saludar = (nombre) => {
   const elemento = document.getElementById("app");
